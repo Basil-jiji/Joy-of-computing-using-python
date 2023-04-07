@@ -1,0 +1,3 @@
+ conda create -n spyder-cf -c conda-forge spyder
+ conda activate spyder-cf
+ spyder
